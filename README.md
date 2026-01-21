@@ -1,2 +1,2 @@
 # devbackend
-Toda minha jornada e meu desenvolvimento a respeito de backend e banco de dados.
+Atividades realizadas durante curso, realizando criações de aplicações para entender melhor os conceitos de Back-end e DB.
