@@ -1,7 +1,11 @@
+import java.util.Scanner;
+
 public class ParImpar {
 
     public static void main(String[] args) {
-        int numero = 7;
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Digite um número:");
+        int numero = sc.nextInt();
 
         if (numero % 2 == 0) {
             System.out.println("O número é par.");
@@ -10,6 +14,8 @@ public class ParImpar {
             System.out.println("O número é ímpar.");
 
         }
+
+        sc.close();
 
     }
 
